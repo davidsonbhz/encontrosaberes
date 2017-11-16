@@ -1,0 +1,50 @@
+call REGISTRA_VOTO(105,3417,'CLAREZA',); 
+call REGISTRA_VOTO(105,3417,'CONTEUDO',); 
+call REGISTRA_VOTO(105,3417,'FORMATAÇÃO',); 
+call REGISTRA_VOTO(105,3417,'DOMINIO DO TEMA',); 
+call REGISTRA_VOTO(105,3417,'TEMPO DE APRESENTAÇÃO',); 
+call REGISTRA_VOTO(105,3417,'CLAREZA',); 
+call REGISTRA_VOTO(105,3417,'CONTEUDO',); 
+call REGISTRA_VOTO(105,3417,'FORMATAÇÃO',); 
+call REGISTRA_VOTO(105,3417,'DOMINIO DO TEMA',); 
+call REGISTRA_VOTO(105,3417,'TEMPO DE APRESENTAÇÃO',); 
+call REGISTRA_VOTO(105,3417,'CLAREZA',); 
+call REGISTRA_VOTO(105,3417,'CONTEUDO',); 
+call REGISTRA_VOTO(105,3417,'FORMATAÇÃO',); 
+call REGISTRA_VOTO(105,3417,'DOMINIO DO TEMA',); 
+call REGISTRA_VOTO(105,3417,'TEMPO DE APRESENTAÇÃO',); 
+call REGISTRA_VOTO(105,3417,'CLAREZA',5); 
+call REGISTRA_VOTO(105,3417,'CONTEUDO',3); 
+call REGISTRA_VOTO(105,3417,'FORMATAÇÃO',3); 
+call REGISTRA_VOTO(105,3417,'DOMINIO DO TEMA',5); 
+call REGISTRA_VOTO(105,3417,'TEMPO DE APRESENTAÇÃO',5); 
+call REGISTRA_VOTO(105,3417,'CLAREZA',5); 
+call REGISTRA_VOTO(105,3417,'CONTEUDO',3); 
+call REGISTRA_VOTO(105,3417,'FORMATAÇÃO',3); 
+call REGISTRA_VOTO(105,3417,'DOMINIO DO TEMA',5); 
+call REGISTRA_VOTO(105,3417,'TEMPO DE APRESENTAÇÃO',5); 
+call REGISTRA_VOTO(109,3417,'CLAREZA',0); 
+call REGISTRA_VOTO(109,3417,'CONTEUDO',0); 
+call REGISTRA_VOTO(109,3417,'FORMATAÇÃO',0); 
+call REGISTRA_VOTO(109,3417,'DOMINIO DO TEMA',0); 
+call REGISTRA_VOTO(109,3417,'TEMPO DE APRESENTAÇÃO',0); 
+select * from inscricao where cpf='03250833630'
+call REGISTRA_VOTO(106,3418,'CLAREZA',0); 
+call REGISTRA_VOTO(106,3418,'CONTEUDO',0); 
+call REGISTRA_VOTO(106,3418,'FORMATAÇÃO',0); 
+call REGISTRA_VOTO(106,3418,'DOMINIO DO TEMA',0); 
+call REGISTRA_VOTO(106,3418,'TEMPO DE APRESENTAÇÃO',3); 
+select * from inscricao where cpf='03250833630'
+select * from inscricao where cpf='03250833630'
+select * from inscricao where cpf='03250833630'
+select * from inscricao where cpf='11858565600'
+select * from inscricao where cpf='11858565600'
+select * from inscricao where cpf='12773121686'
+select * from inscricao where cpf='11858565600'
+select * from inscricao where cpf='11858565600'
+select * from inscricao where cpf='11858565600'
+select * from inscricao where cpf='03250833630'
+select * from inscricao where cpf='03250833630'
+select * from inscricao where cpf='11858565600'
+select * from inscricao where cpf='11858565600'
+select * from inscricao where cpf='11858565600'
